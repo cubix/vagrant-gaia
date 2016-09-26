@@ -1,0 +1,1 @@
+require 'vagrant-gaia/plugin'
